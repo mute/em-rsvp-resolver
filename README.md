@@ -1,4 +1,3 @@
 # RSVPResolver
 
-This is a drop in replacement for Ember.Route that allows controllers that
-sets Ember.RSVP properties on the controller, similar to Anguarjs resolves.
+This is a drop in extension for Ember.Route that will pull properties from RSVP requests onto directly onto the controller, similar to Anguarjs resolves.
